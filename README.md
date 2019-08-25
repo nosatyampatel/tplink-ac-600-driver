@@ -1,7 +1,15 @@
 # tplink-ac-600-driver
 Tp-link AC 600 High Gain driver for Linux all Debian versions(ubuntu,kali,parrot...)
 ***********************************************************************************************************************************-----------------------------------------------------------------------------------------------------------------------------------
-FOLLOWING STEPS TO INSTALL DRIVERS:
+                                          FOLLOWING STEPS TO INSTALL DRIVERS:
+                                          
+                                          
+                                          
+                                          
+                                          
+                                          
+                                          
+                                          
 1.PLUG YOUR Usb TP-link AC 600 device.
 2.Copy or clone this file.
 3.Unzip the file.
