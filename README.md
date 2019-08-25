@@ -20,5 +20,5 @@ sudo mkdir /etc/Wireless/RT2870STA
 sudo cp RT2870STA.dat /etc/Wireless/RT2870STA/
 reboot
 
-******congratulations after rebooting you can use your device*********
+******Congratulations after rebooting you can use your device*********
 *******************green light started blinking***********************
