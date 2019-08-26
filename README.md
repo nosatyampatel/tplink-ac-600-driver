@@ -14,7 +14,7 @@ Tp-link AC 600 High Gain driver for Linux all Debian versions(ubuntu,kali,parrot
     #3.Unzip the file.
     #4.Open terminal in unziped folder.(right click and open terminal)
     #5.EXICUTE THESE COMMNADS: 
-    
+    #mkdir ~/src
     #sudo apt install linux-headers-(PRESS TAB AND CHOOSE your chipset ie.amd64 or intel)
     #sudo apt install dkms
     #sudo apt install wpasupplicant
